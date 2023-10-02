@@ -11,5 +11,9 @@
 
 This seems comparitively simple, however the book does contain a number of poems and songs, which will inevitably lead to problems, and there is a question of formalisms - in passages where Christopher Robin is speaking to the narrator, formal should perhaps be used, and vice versa, as a period parent/child relationship may work.
 
-As with all texts, feel free to use automated tools for your rough work, but be sure to review the text in detail and make appropriate changes - Google Translate is pretty smart, but it's no author.
+As with all texts, feel free to use automated tools for your rough work, but be sure to review the text in detail and make appropriate changes - Google Translate is pretty smart, but it's no author. Always try translating both ways if you're using automatic translators, and vary the input for clarity, to see how the output varies.
+
+Prefer the [Academy Dictionary](https://geiriaduracademi.org/?lang=en) where possible. It gives much broader citation than an automated translator or a pocket dictionary, and often has alternative ways to render a given term.
+
+
 

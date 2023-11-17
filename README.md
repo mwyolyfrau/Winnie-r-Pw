@@ -1,11 +1,11 @@
-# Winnie The Pooh / Winnie y Pŵ
+# Winnie The Pooh / Winnie'r Pŵ
 
   _Dyma Edward Arth, yn dod i lawr y grisiau nawr, cnoc, cnoc, cnoc, ar gefn ei
   ben, tu ôl Christopher Robin. Dyma'r unig ddull, hyd y mae e'n gwybod, o ddod i
   lawr y grisiau, ond weithiau mae'n teimlo bod yna ddull arall mewn gwirionedd,
   pe bai ond yn gallu stopio cnocio am eiliad a meddwl amdano. Ac yna, mae e'n
   teimlo efallai nad oes. Beth bynnag, dyma fe yn y gwaelod, ac yn barod i gael ei
-  gyflwyno i ti. Winnie y Pŵ._
+  gyflwyno i ti. Winnie'r Pŵ._
 
 ## Advice on this text
 

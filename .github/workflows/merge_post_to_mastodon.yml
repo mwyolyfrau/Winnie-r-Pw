@@ -2,10 +2,8 @@ name: notify-mastodon
 on: [push]
 jobs:
   twt:
-    runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main' && github.event_name == 'push'
-    steps:
-      - uses: actions/checkout@v4
-      - uses: mwyolyfrau/peiriant/.github/workflows/post-to-mastodon.yml@main
-        with: 
-          message: This is a test
+    uses: mwyolyfrau/peiriant/.github/workflows/post-to-mastodon.yml@main
+    with: 
+      status: "This is a test"
+      

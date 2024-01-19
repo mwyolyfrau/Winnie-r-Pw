@@ -5,5 +5,5 @@ jobs:
     if: github.ref == 'refs/heads/main' && github.event_name == 'push'
     uses: mwyolyfrau/peiriant/.github/workflows/post-to-mastodon.yml@main
     with: 
-      status: "This is a test"
+      status: "This is a test from the WrP repo"
       

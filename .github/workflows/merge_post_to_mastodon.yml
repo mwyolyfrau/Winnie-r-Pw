@@ -1,9 +1,20 @@
 name: notify-mastodon
 on: [push]
 jobs:
+  chk:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout
+      - name: git log
+        shell: pwsh
+        id: glog
+        run: |
+          $var = $(git log -n 1)
+          write-output $var
   twt:
     if: github.ref == 'refs/heads/main' && github.event_name == 'push'
-    uses: mwyolyfrau/peiriant/blob/main/.github/workflows/post-to-mastodon.yml@main
+    uses: mwyolyfrau/peiriant/.github/workflows/post-to-mastodon.yml@main
     with:  
       status: "This is a test post from the WrP repo"
       

@@ -1,5 +1,8 @@
 name: notify-mastodon
-on: [push]
+on: 
+  push:
+    branches:
+      - main
 jobs:
   chk:
     runs-on: ubuntu-latest

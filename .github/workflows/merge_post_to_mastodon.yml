@@ -3,7 +3,7 @@ on: [push]
 jobs:
   twt:
     if: github.ref == 'refs/heads/main' && github.event_name == 'push'
-    uses: mwyolyfrau/peiriant/blob/main/.github/workflows/post-to-mastodon.yml
+    uses: mwyolyfrau/peiriant/blob/main/.github/workflows/post-to-mastodon.yml@main
     with:  
       status: "This is a test post from the WrP repo"
       

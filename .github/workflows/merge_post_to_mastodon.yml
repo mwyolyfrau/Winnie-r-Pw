@@ -12,9 +12,9 @@ jobs:
         run: |
           $var = $(git log -n 1)
           write-output $var
-  twt:
-    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
-    uses: mwyolyfrau/peiriant/.github/workflows/post-to-mastodon.yml@main
-    with:  
-      status: "This is a test post from the WrP repo"
+#  twt:
+#    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+#    uses: mwyolyfrau/peiriant/.github/workflows/post-to-mastodon.yml@main
+#    with:  
+#      status: "This is a test post from the WrP repo"
       

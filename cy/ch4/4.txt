@@ -5,9 +5,7 @@
 
 
 
-Safai yr hen asyn llwyd, Eeyore, mewn cornel ysgallog o'r goedwig, ei draed blaen ymhell oddi wrth ei gilydd, ei ben ar un ochr, a meddwl am bethau.
-
-Weithiau, meddyliai yn drist wrtho'i hun, "Pam?" a weithiau meddyliai, "Paham?" ac weithiau meddyliai, "Yn gymaint a bod sut?" -- a weithau nid oedd yn gwybod yn iawn beth oedd yn ei feddwl. Felly pan ddaeth Winnie'r Pŵ i stwmpio, roedd Eeyore yn falch iawn o allu rhoi'r gorau i feddwl am ychydig, er mwyn dweud "Sut dych chi?" mewn modd digalon iddo.
+Safai yr Hen Asyn Llwyd, Eeyore, mewn cornel ysgallog o'r goedwig, ei draed blaen ymhell oddi wrth ei gilydd, ei ben ar un ochr, a meddwl am bethau.Weithiau, meddyliai yn drist wrtho'i hun, "Pam?" a weithiau meddyliai, "Paham?" ac weithiau meddyliai, "Yn gymaint a bod sut?" -- a weithau nid oedd yn gwybod yn iawn beth oedd yn ei feddwl. Felly pan ddaeth Winnie'r Pŵ i stwmpio, roedd Eeyore yn falch iawn o allu rhoi'r gorau i feddwl am ychydig, er mwyn dweud "Sut dych chi?" mewn modd digalon iddo.
 
 "A sut dych chi?" meddai Winnie'r Pŵ.
 
@@ -15,7 +13,9 @@ Ysgydwodd Eeyore ei ben o ochr i ochr.
 
 "Nid sut iawn", meddai. "Nid wyf yn teimlo fy mod wedi teimlo'n sut o gwbl ers amser maith."
 
-"Annwyl Annwyl," meddai Pooh, "mae'n ddrwg gen i am hynny. Gadewch i ni gael golwg arnoch chi."     ---- annwyl is bad here.
+"Annwyl Annwyl," meddai Pooh, "mae'n ddrwg gen i am hynny. Gadewch i ni gael golwg arnoch chi."     
+
+---- annwyl is bad here plz fix.
 
 Felly safodd Eeyore yno, gan syllu'n drist ar y ddaear, a cherddodd Winnie'r Pŵ o'i amgylch unwaith.
 
@@ -55,7 +55,38 @@ Felly, aeth Winnie'r Pŵ i chwilio am gynffon Eeyore.
 
 Roedd hi'n fore braf o wanwyn yn y goedwig wrth iddo gychwyn. Roedd cymylau bach meddal yn chwarae'n hapus mewn awyr las, yn sgipio o bryd i'w gilydd o flaen yr haul fel pe baent wedi dod i'w roi allan, ac yna'n llithro i ffwrdd yn sydyn fel y gallai'r nesaf gael ei dro. Trwyddynt a rhyngddynt tywynodd yr haul yn ddewr; ac yr oedd prysgwydd oedd wedi gwisgo ei ffynidwydd trwy'r flwyddyn yn ymddangos yn hen a dowlyd yn awr wrth ymyl y les werdd newydd yr oedd y ffawydd wedi ei gwisgo mor ddel. Trwy goedlan a prysglwyn gorymdeithiodd Arth; i lawr llethrau agored o eithin a grug, dros welyau creigiog o nentydd, i fyny llethrau serth o dywodfaen i'r grug eto; ac felly o'r diwedd, yn flinedig a newynog, i'r Coedwig Can Erw. Canys yn y Coedwig Can Erw y trigai Tylluan.
 
+=== end monster. return to revise ==
 
+"Ac os oes unrhyw un yn gwybod unrhyw beth am unrhyw beth," meddai Arth wrtho'i hun, "dylluan sy'n gwybod rhywbeth am rywbeth," meddai, "neu nid Winnie'r Pŵ yw fy enw i," meddai. "Pa un ydyw," ychwanegodd. "Felly dyna chi."
 
+Roedd Tylluan yn byw yn 'Y Castan', cartref hen fyd o swyn mawr, a oedd yn fwy mawreddog nag eiddo unrhyw un arall, neu'n ymddangos felly i Arth, oherwydd roedd ganddo cnociwr a llinyn-cloch. O dan y cnociwr roedd hysbysiad yn dweud:
 
+CANWCH Y GLOCH OS OES ANGEN ATEB
 
+O dan y llinyn-cloch roedd hysbysiad yn dweud: 
+
+CNOCIWCH OS NAD OES ANGEN ATEB
+
+Roedd yr hysbysiadau hyn wedi'u hysgrifennu gan Christopher Robin, yr unig un yn y goedwig a allai sillafu; canys Tylluan, er ei fod mewn llawer modd, yn gallu darllen ac ysgrifennu a sillafu ei enw ei hun TULLAYN, eto rywfodd yn mynd i gyd yn ddarnau dros eiriau cain fel YFRECHGOCH a TOSTMYNEDIG.
+
+Darllenodd Winnie-the-Pooh y ddau hysbysiad yn ofalus iawn, yn gyntaf o'r chwith i'r dde, ac wedi hynny, rhag ofn iddo fethu rhywfaint ohono, o'r dde i'r chwith. Yna, i wneud yn bur siwr, curodd a thynnodd y cnociwr, a thynnodd a churodd y rhaff-cloch, a galwodd mewn llais uchel iawn, "Tylluan! Mae angen ateb arnaf! Arth sy'n siarad." A'r drws a agorodd, a Tylluan a edrychodd allan.
+
+"S'mae, Pŵ" he said. "Beth sy'n bod?"  === (or sut mae pethau?) ===
+
+"Ofnadwy a Thrist," meddai Pŵ, "am fod Eeyore, sy'n ffrind i mi, wedi colli e gynffon. Ac mae a'i ben yn ei blu am y peth. Felly a allech chi ddweud yn garedig wrthyf sut i ddod o hyd iddo i fe?"
+
+"Wel," meddai Tylluan, "mae'r drefn arferol mewn achosion o'r fath fel a ganlyn."
+
+"Beth mae Trefor Arthurol yn ei olygu?" meddai Pŵ. "Canys, Arth o Ymennydd Bach Iawn dw i, ac mae geiriau hir yn Fy Mhoeni."
+
+"Mae'n golygu'r Peth i'w Wneud."
+
+"Cyn belled â'i fod yn golygu hynny, does dim ots gen i," meddai Pŵ yn ostyngedig.
+
+"Y peth i'w wneud yw fel a ganlyn. Yn gyntaf, _rhowch wobr_. Yna..."
+
+"Dim ond eiliad," meddai Pooh, gan ddal i fyny ei bawen. "Beth ydyn ni'n ei wneud i hyn - beth oeddech chi'n ei ddweud? Fe wnaethoch chi besychu yn union fel yr oeddech chi'n mynd i ddweud wrthyf."
+
+"Wnes i _ddim_ pesychu."
+
+"Do, wnaethoch chi, Tylluan."

@@ -13,7 +13,6 @@ This seems comparitively simple, however the book does contain a number of poems
 
 As with all texts, feel free to use automated tools for your rough work, but be sure to review the text in detail and make appropriate changes - Google Translate is pretty smart, but it's no author. Always try translating both ways if you're using automatic translators, and vary the input for clarity, to see how the output varies.
 
-Prefer the [Academy Dictionary](https://geiriaduracademi.org/?lang=en) where possible. It gives much broader citation than an automated translator or a pocket dictionary, and often has alternative ways to render a given term.
-
+Prefer the [Academy Dictionary](https://geiriaduracademi.org/?lang=en) where possible. It gives much broader citation than an automated translator or a pocket dictionary, and often has alternative ways to render a given term. Some useful snippets are collated [here](USEFUL_SNIPPETS.md) for repeated use.
 
 

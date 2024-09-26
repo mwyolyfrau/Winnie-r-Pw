@@ -6,3 +6,5 @@ Spinney : Prysglwyn
 
 A Great Deal : Cryn dipyn
 
+Bear Of Very Little Brain : Arth o Ymennydd Bach Iawn
+

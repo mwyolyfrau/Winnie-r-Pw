@@ -12,4 +12,7 @@ The Six Pine Trees : Y Chwe Choed Pinwydd
 
 Heffalump : Heffalwmp
 
-The Very Deep Pit : Y Pwll Dwfn Iawn
+The Very Deep Pit : Y Pydew Dwfn Iawn (why _pydew_? Refer Geiriadur yr Academi under "pit")
+
+Honey Pot : Pot Mêl
+

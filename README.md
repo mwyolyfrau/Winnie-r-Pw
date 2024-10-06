@@ -15,4 +15,5 @@ As with all texts, feel free to use automated tools for your rough work, but be 
 
 Prefer the [Academy Dictionary](https://geiriaduracademi.org/?lang=en) where possible. It gives much broader citation than an automated translator or a pocket dictionary, and often has alternative ways to render a given term. Some useful snippets are collated [here](USEFUL_SNIPPETS.md) for repeated use.
 
+Style discussions live in the Issues tab.
 
